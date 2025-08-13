@@ -1,6 +1,7 @@
 {
-  "name": "express-api",
+  "name": "node-express-api",
   "version": "1.0.0",
+  "description": "A simple Node.js Express REST API with user CRUD operations and in-memory storage.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0",
     "uuid": "^11.1.0"
